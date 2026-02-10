@@ -1,0 +1,12 @@
+From: nemani.tukunia@postfiji.com.fj
+Reply-To: mywoodforestbiz.7@gmail.com
+
+Sending IP: 109.202.24.52
+Relay Domain: 54upr.rosreestr.ru
+
+SPF Result: FAIL
+DKIM: NONE
+DMARC: NONE
+
+Subject: Diplomatic agent Mr.Wood Forest
+Scam Type: Advance Fee Fraud (419 Scam)

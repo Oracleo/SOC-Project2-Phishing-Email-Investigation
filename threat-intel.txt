@@ -1,0 +1,15 @@
+VirusTotal:
+- IP 109.202.24.52 currently shows 0/93 detections
+- Indicates infrastructure not yet blacklisted
+
+AbuseIPDB:
+- IP reported twice but abuse confidence remains 0%
+- Low reputation footprint
+
+WHOIS:
+- Relay domain rosreestr.ru registered in Russia
+- Infrastructure likely abused as mail relay
+
+Conclusion:
+Despite low reputation scores, email classified as phishing based on
+SPF failure, spoofed sender, Gmail reply-to mismatch, and scam content.

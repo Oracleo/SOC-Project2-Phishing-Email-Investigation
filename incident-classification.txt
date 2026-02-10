@@ -1,0 +1,16 @@
+Incident Type: Phishing / Advance Fee Fraud
+
+Attack Vector: Email
+
+Primary Indicators:
+- SPF FAIL
+- Spoofed sender domain
+- Gmail reply-to mismatch
+- Financial scam content
+
+MITRE ATT&CK:
+T1566 – Phishing
+
+Severity: Medium
+
+Status: Confirmed Malicious

@@ -1,0 +1,4 @@
+Malicious Sender IP: 109.202.24.52
+Relay Domain: 54upr.rosreestr.ru
+Reply-To Email: mywoodforestbiz.7@gmail.com
+Fake Sender Domain: postfiji.com.fj
