@@ -408,14 +408,14 @@ This repository provides comprehensive documentation of the phishing investigati
 
 ```
 phishing-email-investigation/
-├── README.md                          # Complete project documentation
-├── setup-instructions.md              # Investigation methodology and tool setup
-├── incident-report.md                 # Formal incident documentation
-├── header-analysis.txt                # Email header analysis summary
+├── README.md                         # Complete project documentation
+├── setup-instructions.md             # Investigation methodology and tool setup
+├── incident-report.md                # Formal incident documentation
+├── header-analysis.txt               # Email header analysis summary
 ├── ioc.txt                           # Extracted indicators of compromise
 ├── threat-intel.txt                  # Threat intelligence findings
-├── incident-classification.txt        # Final incident classification
-├── phishing1.eml                     # Original email sample (preserved)
+├── incident-classification.txt       # Final incident classification
+├── phishing_sample.eml               # Original email sample (preserved)
 └── screenshots/
     ├── 01-email-header.png           # Raw email headers
     ├── 02-spf-fail.png               # SPF authentication failure
@@ -423,8 +423,8 @@ phishing-email-investigation/
     ├── 04-ioc-list.png               # Indicators of compromise
     ├── 05-virustotal-ip.png          # VirusTotal IP analysis
     ├── 06-abuseipdb.png              # AbuseIPDB correlation
-    ├── 07-whois-domain.png           # WHOIS domain investigation
-    └── 08-incident-classification.png # Final classification
+    ├── 07-whois-domain.png                # WHOIS domain investigation
+    └── 08-incident-classification.png     # Final classification
 ```
 
 ---
@@ -450,6 +450,9 @@ Cybersecurity postgraduate specializing in Security Operations Center analysis w
 - Cisco Ethical Hacker
 - Cisco Introduction to Cybersecurity
 - TryHackMe PreSecurity Pathway (SOC Fundamentals)
+During My Free Hours I Invest My Time in Learning & Certification:
+(Here You can see My All Earned Certifications from Various Free & Paid Courses) 
+https://drive.google.com/drive/u/1/folders/1ttOQx6oFdYPOTT1c3ZsLtKJxIHeU18Tb?usp=sharing
 
 ---
 
